@@ -1,3 +1,10 @@
+maratona-meta (20240530) noble; urgency=medium
+
+  * Migrate package to Ubuntu noble 24.04
+  * Change package format from implicit 1.0 to 3.0 quilt
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Mon, 17 Jun 2024 22:39:00 -0300
+
 maratona-meta (20231006) jammy; urgency=medium
 
   * Add maratona-fancy-tools as a dependency of maratona-desktop
